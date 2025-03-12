@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">I'm Valentin Villa from Jaén<br><br>- 🔭 I’m a web developer<br>- 📚 I'm currently learning Python and improving my JavaScript knowledge<br>- ⚡ In my free time I usually  </p>
+<p align="left">I'm Valentin Villa from Jaén<br><br>- 🔭 I’m a web developer<br>- 📚 I'm currently learning Python and improving my JavaScript knowledge<br>- ⚡ In my free time I usually try to learn more about new technologies and improve myself working on personal projects. </p>
 
 ###
 
